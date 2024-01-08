@@ -13,9 +13,10 @@
 <img align="center" alt="windows" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white/>
 <img align="center" alt="Mac" src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white/>
 </div>
+<p></p>
 
 ![Lucasthiagosousa GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasthiagosousa&show_icons=true&theme=radical)
-<p></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthiagosousa&hide_progress=true)
 
 ## Linguagens e Ferramentas 
