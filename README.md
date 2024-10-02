@@ -11,16 +11,14 @@
 <img align="center" alt="Mac" src= https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white/>
 <img align="center" alt="ios" src=https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white/>
 <img align="center" alt="windows" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white/>
-<img align="center" alt="Mac" src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white/>
-</div>
+<img align="center" alt="Mac" src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white/></div>
 <p></p>
 
 ![Lucasthiagosousa GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasthiagosousa&show_icons=true&theme=radical)
-<p></p>
+
 <div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt=""/>
 </div>
-
 <div align="left">
   <a href="https://open.spotify.com/user/22kcc32dx3ilkbgaodeooqpbq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22kcc32dx3ilkbgaodeooqpbq&count=5" alt="Spotify recently played"/>
