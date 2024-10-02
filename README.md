@@ -26,6 +26,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22kcc32dx3ilkbgaodeooqpbq&count=5" alt="Spotify recently played"/>
   </a>
 </div>
+<p></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthiagosousa&hide_progress=true)
 
