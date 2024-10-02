@@ -16,6 +16,7 @@
 <p></p>
 
 ![Lucasthiagosousa GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasthiagosousa&show_icons=true&theme=radical)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthiagosousa&hide_progress=true)
 
