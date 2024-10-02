@@ -17,11 +17,11 @@
 
 ![Lucasthiagosousa GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasthiagosousa&show_icons=true&theme=radical)
 <p></p>
-<div align="center">
+<div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt=""/>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/22kcc32dx3ilkbgaodeooqpbq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22kcc32dx3ilkbgaodeooqpbq&count=5" alt="Spotify recently played"/>
   </a>
