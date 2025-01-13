@@ -64,12 +64,13 @@
 
 
 # Sistemas Operacionais 
-<div tyle="display: inline_block">
-<img align="center" alt="Mac" src= https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white/>
-<img align="center" alt="ios" src=https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white/>
-<img align="center" alt="windows" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white/>
-<img align="center" alt="Mac" src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white/></div>
-<p></p>
+<img height="55" src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="mac" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" alt="mac os" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" style="max-width: 100%;">
+
+
 
 ## Especificações do espaço de trabalho
 <div style="display: inline_block">
