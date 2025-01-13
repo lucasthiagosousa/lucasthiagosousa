@@ -55,6 +55,9 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Logo javascript" style="max-width: 100%;">
 <img height="30" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo python" style="max-width: 100%;">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Logo java" style="max-width: 100%;">
+<img height="30" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Logo figma" style="max-width: 100%;">
+<img height="30" src="https://img.icons8.com/?size=100&id=lAWjO4LexGga&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;">
+
 
 
 ## Especificações do espaço de trabalho
