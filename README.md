@@ -1,5 +1,5 @@
 
-### Olá eu sou o Lucas 🙋🏻‍♂️
+### Olá, eu sou o Lucas 🙋🏻‍♂️
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_thiaggoo/)
 [![Youtube](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/inesperado_o)
@@ -27,13 +27,25 @@
 </div>
 <p></p>
 
-# Sistemas Operacionais
+# Sistemas Operacionais 
 <div tyle="display: inline_block">
 <img align="center" alt="Mac" src= https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white/>
 <img align="center" alt="ios" src=https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white/>
 <img align="center" alt="windows" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white/>
 <img align="center" alt="Mac" src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white/></div>
 <p></p>
+
+## Certificaçoes e credenciais 🥇
+<a href="https://www.credly.com/badges/26a9f747-6af1-4cb8-82c0-f474b3227563" target="_blank">
+    <img height="65" src="https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" style="max-width: 100%;">
+</a>
+
+<a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank">
+  <img height="70" src="https://images.credly.com/size/340x340/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob" alt="certificacao" style="max-width: 100%;">
+</a>
+
+<p></p>
+
 
 
 ![Lucasthiagosousa GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasthiagosousa&show_icons=true&theme=radical)
