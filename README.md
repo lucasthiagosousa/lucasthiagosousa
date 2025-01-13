@@ -27,6 +27,7 @@
 </div>
 <p></p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 ## Linguagens e Ferramentas 
 
 <img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Logo javascript" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo python" style="max-width: 100%;"> <img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Logo java" style="max-width: 100%;">
