@@ -27,13 +27,11 @@
 </div>
 <p></p>
 
-# Sistemas Operacionais 
-<div tyle="display: inline_block">
-<img align="center" alt="Mac" src= https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white/>
-<img align="center" alt="ios" src=https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white/>
-<img align="center" alt="windows" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white/>
-<img align="center" alt="Mac" src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white/></div>
-<p></p>
+## Linguagens e Ferramentas 
+
+<img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Logo javascript" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo python" style="max-width: 100%;"> <img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Logo java" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Logo figma" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=lAWjO4LexGga&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;">
+<img height="55" src= "https://img.icons8.com/?size=100&id=38804&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;">
 
 ## Certificaçoes e credenciais 🥇
 <a href="https://www.credly.com/badges/26a9f747-6af1-4cb8-82c0-f474b3227563" target="_blank">
@@ -62,19 +60,23 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthiagosousa&hide_progress=true)
 
-## Linguagens e Ferramentas 
-
-<img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Logo javascript" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo python" style="max-width: 100%;"> <img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Logo java" style="max-width: 100%;">
-<img height="55" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Logo figma" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=lAWjO4LexGga&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;">
-<img height="55" src= "https://img.icons8.com/?size=100&id=38804&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;">
 
 
+# Sistemas Operacionais 
+<div tyle="display: inline_block">
+<img align="center" alt="Mac" src= https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white/>
+<img align="center" alt="ios" src=https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white/>
+<img align="center" alt="windows" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white/>
+<img align="center" alt="Mac" src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white/></div>
+<p></p>
 
 ## Especificações do espaço de trabalho
 <div style="display: inline_block">
 <img align="center" alt="nvidia" src=https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white/>
 <img align="center" alt="amd" src=https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 </div>
+
+
 
 ## IDE
 <div style="display: inline_block">
