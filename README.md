@@ -32,7 +32,8 @@
 
 <img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Logo javascript" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo python" style="max-width: 100%;"> <img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Logo java" style="max-width: 100%;">
 <img height="55" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Logo figma" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=lAWjO4LexGga&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;">
-<img height="55" src= "https://img.icons8.com/?size=100&id=38804&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;">
+<img height="55" src= "https://img.icons8.com/?size=100&id=38804&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=55139&format=png&color=000000" alt="ssh" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=jXU99rRzXMCs&format=png&color=000000" alt="ssh" style="max-width: 100%;">
 
 ## Certificaçoes e credenciais 🥇
 <a href="https://www.credly.com/badges/26a9f747-6af1-4cb8-82c0-f474b3227563" target="_blank">
@@ -64,24 +65,15 @@
 
 
 # Sistemas Operacionais 
-<img height="55" src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" style="max-width: 100%;">
-<img height="55" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" style="max-width: 100%;">
-<img height="55" src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="mac" style="max-width: 100%;">
-<img height="55" src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" alt="mac os" style="max-width: 100%;">
-<img height="55" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="mac" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" alt="mac os" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" style="max-width: 100%;">
 
 
 
 ## Especificações do espaço de trabalho
-<div style="display: inline_block">
-<img align="center" alt="nvidia" src=https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white/>
-<img align="center" alt="amd" src=https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white
-</div>
+<img height="55" src="https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000" alt="nvdia" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=tu2Vq6i3mpRn&format=png&color=000000" alt="amd" style="max-width: 100%;">
 
 
 
 ## IDE
-<div style="display: inline_block">
-<img align="center" alt="visual" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white/>
-<img align="center" alt="visualstudio" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white/>
-</div>
+<img height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="visual studio" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=0fCem8AbtIQR&format=png&color=000000" alt="sublime" style="max-width: 100%;">
+
