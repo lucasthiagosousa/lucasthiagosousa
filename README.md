@@ -1,5 +1,5 @@
 
-### Olá, eu sou o Lucas 🙋🏻‍♂️
+## Olá, eu sou o Lucas 🙋🏻‍♂️
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_thiaggoo/)
 [![Youtube](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/inesperado_o)
