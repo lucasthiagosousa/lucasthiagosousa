@@ -33,7 +33,7 @@
 <img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Logo javascript" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo python" style="max-width: 100%;"> <img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Logo java" style="max-width: 100%;">
 <img height="55" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Logo figma" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=lAWjO4LexGga&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;">
 <img height="55" src= "https://img.icons8.com/?size=100&id=38804&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=55139&format=png&color=000000" alt="ssh" style="max-width: 100%;">
-<img height="55" src="https://img.icons8.com/?size=100&id=jXU99rRzXMCs&format=png&color=000000" alt="ssh" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=jXU99rRzXMCs&format=png&color=000000" alt="ssh" style="max-width: 100%;"> <img height="55" src="https://images.sftcdn.net/images/t_app-icon-m/p/87f45a9e-96d4-11e6-b8fa-00163ec9f5fa/1944140565/forticlient-icon.png" alt="ssh" style="max-width: 100%;">
 
 ## Certificaçoes e credenciais 🥇
 <a href="https://www.credly.com/badges/26a9f747-6af1-4cb8-82c0-f474b3227563" target="_blank">
@@ -65,7 +65,7 @@
 
 
 # Sistemas Operacionais 
-<img height="55" src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="mac" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" alt="mac os" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="mac" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" alt="mac os" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=pAidNmRVtY5a&format=png&color=000000" alt="ssh" style="max-width: 100%;">
 
 
 
