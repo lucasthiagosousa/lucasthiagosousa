@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/lucasthiagosousa" target="_blank">
-  <img height="79" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="certificacao" style="max-width: 100%;">
+  <img height="79" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="certificacao" style="max-width: 60%;">
 </a>
 
 <a href="https://discord.gg/y6D5gPep" target="_blank">
@@ -74,10 +74,6 @@
   </a>
 </div>
 <p></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthiagosousa&hide_progress=true)
-
-
 
 # Sistemas Operacionais 
 <img height="55" src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="mac" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" alt="mac os" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=pAidNmRVtY5a&format=png&color=000000" alt="ssh" style="max-width: 100%;">
