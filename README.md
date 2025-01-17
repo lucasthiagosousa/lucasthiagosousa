@@ -48,13 +48,16 @@
 <img height="55" src= "https://img.icons8.com/?size=100&id=38804&format=png&color=000000" alt="Logo canvas" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=55139&format=png&color=000000" alt="ssh" style="max-width: 100%;">
 <img height="55" src="https://img.icons8.com/?size=100&id=jXU99rRzXMCs&format=png&color=000000" alt="ssh" style="max-width: 100%;"> <img height="55" src="https://images.sftcdn.net/images/t_app-icon-m/p/87f45a9e-96d4-11e6-b8fa-00163ec9f5fa/1944140565/forticlient-icon.png" alt="ssh" style="max-width: 100%;">
 
-## Certificaçoes e credenciais 🥇
+# Sistemas Operacionais 
+<img height="55" src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="mac" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" alt="mac os" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=pAidNmRVtY5a&format=png&color=000000" alt="ssh" style="max-width: 100%;">
+
+## Certificaçoes e credenciais 🥇                                      
 
 <a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank">
   <img height="79" src="https://images.credly.com/size/340x340/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob" alt="certificacao" style="max-width: 100%;">
 </a>
 <a href="https://www.credly.com/badges/26a9f747-6af1-4cb8-82c0-f474b3227563" target="_blank">
-    <img height="79" src="https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" style="max-width: 100%;">
+    <img height="77" src="https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" style="max-width: 100%;">
 </a>
 <a href="https://www.credly.com/badges/312e9f6f-4eda-4af4-adc6-a7997914ff22/public_url" target="_blank">
     <img height="79" src="https://images.credly.com/size/340x340/images/25b13818-6498-47e7-a2b5-83852dacabf2/blob" style="max-width: 100%;">
@@ -78,10 +81,6 @@
   </a>
 </div>
 <p></p>
-
-# Sistemas Operacionais 
-<img height="55" src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="mac" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" alt="mac os" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="ubuntu" style="max-width: 100%;"><img height="55" src="https://img.icons8.com/?size=100&id=pAidNmRVtY5a&format=png&color=000000" alt="ssh" style="max-width: 100%;">
-
 
 
 ## Especificações do espaço de trabalho
