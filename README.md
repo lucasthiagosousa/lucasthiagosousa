@@ -10,16 +10,16 @@
 </a>
 
 <a href="https://github.com/lucasthiagosousa" target="_blank">
-  <img height="79" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="certificacao" style="max-width: 60%;">
+  <img height="69" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="certificacao" style="max-width: 100%;">
 </a>
 
 <a href="https://discord.gg/y6D5gPep" target="_blank">
-  <img height="79" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="certificacao" style="max-width: 100%;">
+  <img height="79" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="certificacao" style="max-width: 5000%;">
 </a>
 
 
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias que eu uso no meu dia a dia 
 
 <div style="display: inline_block">
 <img align="center" alt="power" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white/>
@@ -64,6 +64,10 @@
 
 
 ![Lucasthiagosousa GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasthiagosousa&show_icons=true&theme=radical)
+<p></p>
+<a href="https://www.instagram.com/lucas_thiaggoo/#" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="width: 100%; height: auto;">
+</a>
 
 <div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt=""/>
