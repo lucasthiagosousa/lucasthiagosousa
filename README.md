@@ -1,15 +1,15 @@
 
 ## Olá, eu sou o Lucas 🙋🏻‍♂️
 
-<a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_thiaggoo/" target="_blank">
+<a href="https://www.instagram.com/lucas_thiaggoo/#" target="_blank">
   <img height="79" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" style="max-width: 100%;">
 </a>
 
-<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lucas-thiago-de-sousa-silveira-368628160" target="_blank">
+<a href="linkedin.com/in/lucas-thiago-de-sousa-silveira-368628160" target="_blank">
   <img height="79" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="certificacao" style="max-width: 100%;">
 </a>
 
-<a href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasthiagosousa" target="_blank">
+<a href="https://github.com/lucasthiagosousa" target="_blank">
   <img height="79" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="certificacao" style="max-width: 100%;">
 </a>
 
