@@ -53,12 +53,17 @@
 
 ## Certificaçoes e credenciais 🥇                                      
 
-<a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank">
+<a href="https://www.credly.com/earner/earned/badge/6255019c-0951-4235-af56-3cd116a7db83" target="_blank">
+  <img height="77" src="https://images.credly.com/size/340x340/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png" alt="certificacao" style="max-width: 100%;">
+</a> <a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank">
   <img height="79" src="https://images.credly.com/size/340x340/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob" alt="certificacao" style="max-width: 100%;">
 </a>
+
+
 <a href="https://www.credly.com/badges/26a9f747-6af1-4cb8-82c0-f474b3227563" target="_blank">
     <img height="77" src="https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" style="max-width: 100%;">
 </a>
+
 <a href="https://www.credly.com/badges/312e9f6f-4eda-4af4-adc6-a7997914ff22/public_url" target="_blank">
     <img height="79" src="https://images.credly.com/size/340x340/images/25b13818-6498-47e7-a2b5-83852dacabf2/blob" style="max-width: 100%;">
 </a>
