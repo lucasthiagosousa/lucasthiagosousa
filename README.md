@@ -93,7 +93,6 @@
 
 
 ## IDE
-<img height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="visual studio" style="max-width: %;"> 
-<img height="55" src="https://img.icons8.com/?size=100&id=0fCem8AbtIQR&format=png&color=000000" alt="sublime" style="max-width: 100%;">
+<img height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="visual studio" style="max-width: %;"> <img height="55" src="https://img.icons8.com/?size=100&id=0fCem8AbtIQR&format=png&color=000000" alt="sublime" style="max-width: 100%;">
 <img height="10" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="max-width: 40%;">
 
