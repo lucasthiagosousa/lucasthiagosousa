@@ -80,15 +80,12 @@
   </a>
 </div>
 <p></p>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ## Especificações do espaço de trabalho
 <img height="55" src="https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000" alt="nvdia" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=tu2Vq6i3mpRn&format=png&color=000000" alt="amd" style="max-width: 100%;">
