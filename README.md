@@ -85,7 +85,7 @@
 ## 🎨 Design & Criação
 ![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,ps,lightroom&theme=light)
 
-## 🍎 Sistemas & Ecossistema
+## 🍎 Sistemas Operacionais
 ![Sistemas](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,windows,ubuntu&theme=light)
 
 ## 🗄️ Banco de Dados
