@@ -75,9 +75,9 @@
 
 ## Certificaçoes e credenciais 🥇                                      
 
+<a href="https://www.credly.com/earner/earned/badge/6255019c-0951-4235-af56-3cd116a7db83" target="_blank"><img height="77" src="https://images.credly.com/size/340x340/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png" alt="certificacao" style="max-width: 100%;"></a>
 <a href="https://github.com/user-attachments/assets/71db668b-79f3-47bc-b8d5-cf9e7cf21561" target="_blank"><img height="79" src="https://github.com/user-attachments/assets/71db668b-79f3-47bc-b8d5-cf9e7cf21561" style="max-width: 100%;"></a>
 <a href="https://github.com/user-attachments/assets/b9e699be-c30a-4ce8-9d4b-f9b572af21ca" target="_blank"><img height="77" src="https://github.com/user-attachments/assets/b9e699be-c30a-4ce8-9d4b-f9b572af21ca" style="max-width: 100%;"></a>
-<a href="https://www.credly.com/earner/earned/badge/6255019c-0951-4235-af56-3cd116a7db83" target="_blank"><img height="77" src="https://images.credly.com/size/340x340/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png" alt="certificacao" style="max-width: 100%;"></a>
 <a href="https://www.credly.com/badges/26a9f747-6af1-4cb8-82c0-f474b3227563" target="_blank"><img height="77" src="https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" style="max-width: 100%;"></a>
 <a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank"><img height="79" src="https://images.credly.com/images/40eff5bb-da88-4c24-95f4-81255778593c/blob" alt="certificacao" style="max-width: 100%;"></a>
 <a href="https://www.credly.com/badges/312e9f6f-4eda-4af4-adc6-a7997914ff22/public_url" target="_blank"><img height="79" src="https://images.credly.com/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob" style="max-width: 100%;"></a>
