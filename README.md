@@ -82,22 +82,5 @@
 <a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank"><img height="79" src="https://images.credly.com/images/40eff5bb-da88-4c24-95f4-81255778593c/blob" alt="certificacao" style="max-width: 100%;"></a>
 <a href="https://www.credly.com/badges/312e9f6f-4eda-4af4-adc6-a7997914ff22/public_url" target="_blank"><img height="79" src="https://images.credly.com/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob" style="max-width: 100%;"></a>
 
-
-<p></p>
-<a href="https://www.instagram.com/lucas_thiaggoo/#" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="width: 100%; height: auto;">
-</a>
-
-<div align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt=""/>
-</div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
 <img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
 <img src="https://github.com/user-attachments/assets/820554ef-446f-4e56-a6d3-fa701280ba3b" width="100%">
