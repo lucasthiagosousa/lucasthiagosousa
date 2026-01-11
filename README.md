@@ -20,8 +20,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasthiagosousa.lucasthiagosousa&"  />
 </div>
-
-<img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
   
 ## Tecnologias que eu uso no meu dia a dia 
 
@@ -62,18 +60,18 @@
 </div>
 <p></p>
 
-
+<img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 # Linguagens e Ferramentas 
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,gitlab,javascript,java,html,grafana,lightroom,n8n,mysql,nodejs,npm,obs,onedrive,python,powerpoint,opensource,oracle,sublime,css,docker,eclipse,telegram,twitch,visualstudio,terminal,reddit,react,word,teams,putty,canva,azure,apple,excel,figma,flutter,discord,nodejs,figma&theme=light)
 
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,notion,github,bash,azure,html,css,docker,discord,git,photoshop,typescript,premiere,postman,eclipse,gitlab,sublime,flutter,firebase,javascript,python,figma,java,nodejs,npm,mysql,react,powershell,vscode,visualstudio&theme=light&perline=15" alt="My Skills" /></a>
 
 # Sistemas Operacionais 
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,apple&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,apple&theme=light&perline=15" alt="My Skills" /></a>
+
 
 ## Certificaçoes e credenciais 🥇                                      
 
@@ -93,12 +91,7 @@
 <div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt=""/>
 </div>
-<div align="left">
-  <a href="https://open.spotify.com/user/22kcc32dx3ilkbgaodeooqpbq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22kcc32dx3ilkbgaodeooqpbq&count=5" alt="Spotify recently played"/>
-  </a>
-</div>
-<p></p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -106,11 +99,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-## Especificações do espaço de trabalho
-<img height="55" src="https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000" alt="nvdia" style="max-width: 100%;"> <img height="55" src="https://img.icons8.com/?size=100&id=tu2Vq6i3mpRn&format=png&color=000000" alt="amd" style="max-width: 100%;">
-
-
 <img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
-
 <img src="https://github.com/user-attachments/assets/820554ef-446f-4e56-a6d3-fa701280ba3b" width="100%">
-<img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
