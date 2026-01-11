@@ -23,6 +23,24 @@
 ## Tecnologias que eu uso no meu dia a dia 
 
 <div style="display: inline_block">
+<img align="center" alt="power" src= https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/amd-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important/>
+<img align="center" alt="power" src= https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white
+<img align="center" alt="power" src= https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)/>
+<img align="center" alt="power" src= https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white />
+<img align="center" alt="power" src= https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33/>
+<img align="center" alt="power" src= https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white />
+<img align="center" alt="power" src= https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)/>
+<img align="center" alt="power" src= https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)/>
+<img align="center" alt="power" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)/>
+<img align="center" alt="power" src=https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)/>
 <img align="center" alt="power" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,9 +59,8 @@
 </div>
 <p></p>
 
-<img height="7" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="max-width: 40%;">
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<img height="7" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="max-width: 40%;">
 
 # Linguagens e Ferramentas 
 
@@ -93,5 +110,7 @@
 ## IDE
 <img height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="visual studio" style="max-width: %;"> <img height="55" src="https://img.icons8.com/?size=100&id=0fCem8AbtIQR&format=png&color=000000" alt="sublime" style="max-width: 100%;">
 
-<img height="10" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="max-width: 40%;">
+<img src=https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif> 
+
+
 
