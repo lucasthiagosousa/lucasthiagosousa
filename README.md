@@ -65,7 +65,7 @@
 
 # Linguagens e Ferramentas 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,gitlab,javascript,css,java,html,grafana,lightroom,n8n,mysql,nodejs,npm,obs,onedrive,python,powerpoint,opensource,oracle,sublime,docker,eclipse,telegram,twitch,visualstudio,terminal,reddit,react,word,teams,putty,canva,azure,apple,excel,figma,flutter,discord,nodejs,figma&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,gitlab,javascript,css,java,html,grafana,lightroom,n8n,mysql,nodejs,git,github,npm,obs,onedrive,python,ps,htmx,gmail,powerpoint,opensource,oracle,sublime,docker,eclipse,telegram,mongodb,twitch,visualstudio,powershell,terminal,reddit,react,word,teams,putty,canva,azure,apple,excel,flutter,discord,nodejs,figma&theme=light)
 
 
 # Sistemas Operacionais 
