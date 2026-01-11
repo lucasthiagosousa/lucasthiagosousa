@@ -16,6 +16,7 @@
 <a href="https://discord.gg/y6D5gPep" target="_blank">
   <img height="79" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="certificacao" style="max-width: 5000%;">
 </a>
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasthiagosousa.lucasthiagosousa&"  />
 </div>
@@ -23,10 +24,10 @@
 ## Tecnologias que eu uso no meu dia a dia 
 
 <div style="display: inline_block">
-<img align="center" alt="power" src= https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white/>
 <img align="center" alt="power" src= https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white/>
 <img align="center" alt="power" src= https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white/>
 <img align="center" alt="power" src= https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white/>
+<img align="center" alt="power" src= https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white/>
 <img align="center" alt="power" src= https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white/>
 <img align="center" alt="power" src= https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white/>
 <img align="center" alt="power" src= https://img.shields.io/badge/amd-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white/>
@@ -110,7 +111,6 @@
 ## IDE
 <img height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="visual studio" style="max-width: %;"> <img height="55" src="https://img.icons8.com/?size=100&id=0fCem8AbtIQR&format=png&color=000000" alt="sublime" style="max-width: 100%;">
 
-<img src=https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif> 
 
 
 
