@@ -21,6 +21,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasthiagosousa.lucasthiagosousa&"  />
 </div>
 
+<img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
+  
 ## Tecnologias que eu uso no meu dia a dia 
 
 <div style="display: inline_block">
@@ -112,5 +114,5 @@
 <img height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="visual studio" style="max-width: %;"> <img height="55" src="https://img.icons8.com/?size=100&id=0fCem8AbtIQR&format=png&color=000000" alt="sublime" style="max-width: 100%;">
 
 
-
+<img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
 
