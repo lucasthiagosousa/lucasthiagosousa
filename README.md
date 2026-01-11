@@ -16,7 +16,7 @@
 <a href="https://discord.gg/y6D5gPep" target="_blank">
   <img height="79" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="certificacao" style="max-width: 5000%;">
 </a>
-
+<p></p>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasthiagosousa.lucasthiagosousa&"  />
 </div>
