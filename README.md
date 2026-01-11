@@ -20,8 +20,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasthiagosousa.lucasthiagosousa&"  />
 </div>
 
-
-
 ## Tecnologias que eu uso no meu dia a dia 
 
 <div style="display: inline_block">
