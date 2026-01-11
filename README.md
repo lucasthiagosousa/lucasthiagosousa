@@ -24,53 +24,73 @@
 ## Tecnologias que eu uso no meu dia a dia 
 
 <div style="display: inline_block">
-<img align="center" alt="power" src= https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white/>
-<img align="center" alt="power" src= https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white/>
-<img align="center" alt="power" src= https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white/>
-<img align="center" alt="power" src= https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white/>
-<img align="center" alt="power" src= https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white/>
-<img align="center" alt="power" src= https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white/>
-<img align="center" alt="power" src= https://img.shields.io/badge/amd-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white/>
-<img align="center" alt="power" src= https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important/>
-<img align="center" alt="power" src= https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white
-<img align="center" alt="power" src= https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)/>
-<img align="center" alt="power" src= https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white />
-<img align="center" alt="power" src= https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33/>
-<img align="center" alt="power" src= https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white/>
-<img align="center" alt="power" src= https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white />
-<img align="center" alt="power" src= https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)/>
-<img align="center" alt="power" src= https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)/>
-<img align="center" alt="power" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)/>
-<img align="center" alt="power" src=https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)/>
-<img align="center" alt="power" src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="Pythom" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img align="center" alt="microsoft" src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white/>
-<img align="center" alt="Ofiice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<img align="center" alt="Acess" src=https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white/>
-<img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img align="center" alt="excel" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white/>
-<img align="center" alt="power" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-<img align="center" alt="Pitlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-<img align="center" alt="Pitlook" src=https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000/>
-<img align="center" alt="Pitlook" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white/>
-<img align="center" alt="Pitlook" src=https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+<img src="https://img.shields.io/badge/Proxmox-2b2a33?style=for-the-badge&logo=proxmox&logoColor=E57000"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EditorConfig-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"/>
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sublime_Text-575757?style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Pay-3780F1?style=for-the-badge&logo=google-pay&logoColor=white"/>
+<img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+
+
 </div>
 <p></p>
 
 <img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-# Linguagens e Ferramentas 
+## 💻 Desenvolvimento
+![Desenvolvimento](https://go-skill-icons.vercel.app/api/icons?i=javascript,python,java,html,css,nodejs,react,flutter,htmx&theme=light)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,gitlab,javascript,css,java,html,grafana,lightroom,n8n,mysql,nodejs,git,github,npm,obs,onedrive,python,ps,htmx,gmail,powerpoint,opensource,oracle,sublime,docker,eclipse,telegram,mongodb,twitch,visualstudio,powershell,terminal,reddit,react,word,teams,putty,canva,azure,apple,excel,flutter,discord,nodejs,figma&theme=light)
+## ⚙️ DevOps, Automação & Monitoramento
+![DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,npm,powershell,terminal,n8n,grafana,opensource&theme=light)
+
+## 📊 Produtividade & Office
+![Produtividade](https://go-skill-icons.vercel.app/api/icons?i=excel,word,powerpoint,onedrive,gmail,teams&theme=light)
+
+## ☁️ Cloud & Infraestrutura
+![Cloud & Infraestrutura](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,oracle,docker&theme=light)
 
 
-# Sistemas Operacionais 
+## 🧑‍💻 IDEs & Ferramentas de Desenvolvimento
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,eclipse,sublime,putty&theme=light)
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,apple&theme=light&perline=15" alt="My Skills" /></a>
+## 🎨 Design & Criação
+![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,ps,lightroom&theme=light)
+
+## 🍎 Sistemas & Ecossistema
+![Sistemas](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,windows,ubuntu&theme=light)
+
+## 🗄️ Banco de Dados
+![Banco de Dados](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb&theme=light)
+
 
 
 ## Certificaçoes e credenciais 🥇                                      
