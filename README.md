@@ -88,8 +88,7 @@
 ![Banco de Dados](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb&theme=light)
 
 
-
-## Certificaçoes e credenciais 🥇                                      
+## 📜 Cursos & Certificações
 
 <a href="https://www.credly.com/earner/earned/badge/6255019c-0951-4235-af56-3cd116a7db83" target="_blank"><img height="79" src="https://images.credly.com/size/340x340/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png" alt="certificacao" style="max-width: 100%;"></a>
 <a href="https://github.com/user-attachments/assets/71db668b-79f3-47bc-b8d5-cf9e7cf21561" target="_blank"><img height="79" src="https://github.com/user-attachments/assets/71db668b-79f3-47bc-b8d5-cf9e7cf21561" style="max-width: 100%;"></a>
@@ -97,6 +96,56 @@
 <a href="https://www.credly.com/badges/26a9f747-6af1-4cb8-82c0-f474b3227563" target="_blank"><img height="77" src="https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" style="max-width: 100%;"></a>
 <a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank"><img height="79" src="https://images.credly.com/images/40eff5bb-da88-4c24-95f4-81255778593c/blob" alt="certificacao" style="max-width: 100%;"></a>
 <a href="https://www.credly.com/badges/312e9f6f-4eda-4af4-adc6-a7997914ff22/public_url" target="_blank"><img height="79" src="https://images.credly.com/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob" style="max-width: 100%;"></a>
+
+### 🎨 Frontend / Desenvolvimento Web
+| Curso | Instituição | Status |
+|------|-------------|--------|
+| **Criação de Site com HTML, CSS e JavaScript** | Softex | ✅ Concluído |
+| **Introdução à Linguagem HTML** | Udemy | ✅ Concluído |
+| **Introdução ao HTML5 com JavaScript e CSS3** | Microsoft | ✅ Concluído |
+| **#EuPossoProgramar – Minha Página Web** | Microsoft | ✅ Concluído |
+| **Criar Aplicativos sem Servidor** | Microsoft Azure | ✅ Concluído |
+| **Introdução à Programação Orientada a Objetos (POO)** | Bradesco | ✅ Concluído |
+
+---
+
+### 🖥️ Infraestrutura / Tecnologia
+| Curso | Instituição | Status |
+|------|-------------|--------|
+| **Information Technology Fundamentals** | IBM | ✅ Concluído |
+| **Gestão de Infraestrutura de TI** | FIAP | ✅ Concluído |
+| **Fundamentos de Rede** | Microsoft | ✅ Concluído |
+| **Introdução a Redes de Computadores** | Bradesco | ✅ Concluído |
+| **Introdução ao Windows 10 para Profissionais de TI** | Microsoft | ✅ Concluído |
+| **Academia Windows: Implantando Windows 10** | Microsoft | ✅ Concluído |
+| **Trabalho com Computadores** | Microsoft | ✅ Concluído |
+| **Microsoft Office 365 (OneDrive, OneNote, Planner, Outlook)** | Fundação Bradesco | ✅ Concluído |
+
+---
+
+### 🔐 Segurança da Informação
+| Curso | Instituição | Status |
+|------|-------------|--------|
+| **Cybersecurity Awareness (CAPC)** | CertiProf | ✅ Concluído |
+| **Segurança em Tecnologia da Informação** | Bradesco | ✅ Concluído |
+| **LGPD (Lei Geral de Proteção de Dados)** | Fundação Bradesco | ✅ Concluído |
+
+---
+
+### 📊 Gestão / Atendimento / Negócios
+| Curso | Instituição | Status |
+|------|-------------|--------|
+| **Encantar o Cliente através do Atendimento** | Acelerador Atendimento | ✅ Concluído |
+| **Impulsionar sua carreira e buscar resultados mais expressivos para a empresa** | Acelerador Atendimento | ✅ Concluído |
+| **Gestão Financeira de Empresas** | FIAP | ✅ Concluído |
+| **Atendimento ao Público** | Bradesco | ✅ Concluído |
+| **Finanças Pessoais** | Bradesco | ✅ Concluído |
+| **Letramento Digital** | Fundação Bradesco | ✅ Concluído |
+| **Cálculo Técnico** | Instituto Federal de Pernambuco | ✅ Concluído |
+| **Cálculo Técnico** | Instituto Federal do Rio Grande do Sul | ✅ Concluído |
+| **Fundamentos da Sustentabilidade em Tecnologia** | Microsoft | ✅ Concluído |
+| **Sustentabilidade em Tecnologia da Empresa** | Microsoft | ✅ Concluído |
+| **Fundamentos de Tecnologia em Libras** | Microsoft | ✅ Concluído |
 
 <img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
 <img src="https://github.com/user-attachments/assets/820554ef-446f-4e56-a6d3-fa701280ba3b" width="100%">
