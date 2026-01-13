@@ -103,7 +103,7 @@
 
 ##EM MANUTENCAO ###
 
-|**Google Workspace Core Services**| Google | ✅ Concluído |
+| **Google Workspace Core Services** | Google | ✅ Concluído |
 
 | Curso | Instituição | Status |
 |------|-------------|--------|
