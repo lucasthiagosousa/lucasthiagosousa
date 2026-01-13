@@ -100,6 +100,10 @@
 ## 📜 Cursos & Certificações
 
 ### 🎨 Frontend / Desenvolvimento Web
+
+##EM MANUTENCAO ###
+|Google Workspace Core Services| Google | ✅ Concluído |
+
 | Curso | Instituição | Status |
 |------|-------------|--------|
 | [Criação de Site com HTML, CSS e JavaScript](./certificados/frontend/html-css-js-softex.pdf) | Softex | ✅ Concluído |
