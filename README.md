@@ -106,6 +106,7 @@
 | **#EuPossoProgramar – Minha Página Web** | Microsoft | ✅ Concluído |
 | **Criar Aplicativos sem Servidor** | Microsoft Azure | ✅ Concluído |
 | **Introdução à Programação Orientada a Objetos (POO)** | Bradesco | ✅ Concluído |
+| **Crie um site simples usando HTML, CSS e JavaScript** | Escola do Trabalhador 4.0 |✅ Concluído |
 
 ---
 
@@ -113,6 +114,7 @@
 | Curso | Instituição | Status |
 |------|-------------|--------|
 | **Information Technology Fundamentals** | IBM | ✅ Concluído |
+| **Trabalho com computadores** | Escola do Trabalhador 4.0 | ✅ Concluído |
 | **Gestão de Infraestrutura de TI** | FIAP | ✅ Concluído |
 | **Fundamentos de Rede** | Microsoft | ✅ Concluído |
 | **Introdução a Redes de Computadores** | Bradesco | ✅ Concluído |
