@@ -102,7 +102,7 @@
 ### 🎨 Frontend / Desenvolvimento Web
 
 ##EM MANUTENCAO ###
-
+|------|-------------|--------|
 | **Google Workspace Core Services** | Google | ✅ Concluído |
 
 | Curso | Instituição | Status |
