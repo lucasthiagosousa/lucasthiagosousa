@@ -97,57 +97,54 @@
 <a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank"><img height="79" src="https://images.credly.com/images/40eff5bb-da88-4c24-95f4-81255778593c/blob" alt="certificacao" style="max-width: 100%;"></a>
 <a href="https://www.credly.com/badges/312e9f6f-4eda-4af4-adc6-a7997914ff22/public_url" target="_blank"><img height="79" src="https://images.credly.com/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob" style="max-width: 100%;"></a>
 
+## 📜 Cursos & Certificações
+
 ### 🎨 Frontend / Desenvolvimento Web
 | Curso | Instituição | Status |
 |------|-------------|--------|
-| **Criação de Site com HTML, CSS e JavaScript** | Softex | ✅ Concluído |
-| **Introdução à Linguagem HTML** | Udemy | ✅ Concluído |
-| **Introdução ao HTML5 com JavaScript e CSS3** | Microsoft | ✅ Concluído |
-| **#EuPossoProgramar – Minha Página Web** | Microsoft | ✅ Concluído |
-| **Criar Aplicativos sem Servidor** | Microsoft Azure | ✅ Concluído |
-| **Introdução à Programação Orientada a Objetos (POO)** | Bradesco | ✅ Concluído |
-| **Crie um site simples usando HTML, CSS e JavaScript** | Escola do Trabalhador 4.0 |✅ Concluído |
+| [Criação de Site com HTML, CSS e JavaScript](./certificados/frontend/html-css-js-softex.pdf) | Softex | ✅ Concluído |
+| [Introdução ao HTML5 com JavaScript e CSS3](./certificados/frontend/html5-css3-js-microsoft.pdf) | Microsoft | ✅ Concluído |
+| [#EuPossoProgramar – Minha Página Web](./certificados/frontend/eupossoprogramar-microsoft.pdf) | Microsoft | ✅ Concluído |
+| [Criar Aplicativos sem Servidor](./certificados/frontend/serverless-azure.pdf) | Microsoft Azure | ✅ Concluído |
+| [Introdução à Programação Orientada a Objetos (POO)](./certificados/frontend/poo-bradesco.pdf) | Bradesco | ✅ Concluído |
+| [Introdução à Linguagem HTML](./certificados/frontend/html-udemy.pdf) | Udemy | ✅ Concluído |
 
 ---
 
 ### 🖥️ Infraestrutura / Tecnologia
 | Curso | Instituição | Status |
 |------|-------------|--------|
-| **Information Technology Fundamentals** | IBM | ✅ Concluído |
-| **Trabalho com computadores** | Escola do Trabalhador 4.0 | ✅ Concluído |
-| **Gestão de Infraestrutura de TI** | FIAP | ✅ Concluído |
-| **Fundamentos de Rede** | Microsoft | ✅ Concluído |
-| **Introdução a Redes de Computadores** | Bradesco | ✅ Concluído |
-| **Introdução ao Windows 10 para Profissionais de TI** | Microsoft | ✅ Concluído |
-| **Academia Windows: Implantando Windows 10** | Microsoft | ✅ Concluído |
-| **Trabalho com Computadores** | Microsoft | ✅ Concluído |
-| **Microsoft Office 365 (OneDrive, OneNote, Planner, Outlook)** | Fundação Bradesco | ✅ Concluído |
+| [Information Technology Fundamentals](./certificados/infra/it-fundamentals-ibm.pdf) | IBM | ✅ Concluído |
+| [Gestão de Infraestrutura de TI](./certificados/infra/gestao-infra-fiap.pdf) | FIAP | ✅ Concluído |
+| [Fundamentos de Rede](./certificados/infra/fundamentos-rede-microsoft.pdf) | Microsoft | ✅ Concluído |
+| [Introdução a Redes de Computadores](./certificados/infra/redes-bradesco.pdf) | Bradesco | ✅ Concluído |
+| [Introdução ao Windows 10 para Profissionais de TI](./certificados/infra/windows10-ti-microsoft.pdf) | Microsoft | ✅ Concluído |
+| [Academia Windows: Implantando Windows 10](./certificados/infra/windows10-implantacao.pdf) | Microsoft | ✅ Concluído |
+| [Microsoft Office 365 (OneDrive, OneNote, Planner, Outlook)](./certificados/infra/office365-bradesco.pdf) | Fundação Bradesco | ✅ Concluído |
 
 ---
 
 ### 🔐 Segurança da Informação
 | Curso | Instituição | Status |
 |------|-------------|--------|
-| **Cybersecurity Awareness (CAPC)** | CertiProf | ✅ Concluído |
-| **Segurança em Tecnologia da Informação** | Bradesco | ✅ Concluído |
-| **LGPD (Lei Geral de Proteção de Dados)** | Fundação Bradesco | ✅ Concluído |
+| [Cybersecurity Awareness (CAPC)](./certificados/seguranca/cybersecurity-capc.pdf) | CertiProf | ✅ Concluído |
+| [LGPD (Lei Geral de Proteção de Dados)](./certificados/seguranca/lgpd-bradesco.pdf) | Fundação Bradesco | ✅ Concluído |
+| [Segurança em Tecnologia da Informação](./certificados/seguranca/seguranca-ti-bradesco.pdf) | Bradesco | ✅ Concluído |
 
 ---
 
 ### 📊 Gestão / Atendimento / Negócios
 | Curso | Instituição | Status |
 |------|-------------|--------|
-| **Encantar o Cliente através do Atendimento** | Acelerador Atendimento | ✅ Concluído |
-| **Impulsionar sua carreira e buscar resultados mais expressivos para a empresa** | Acelerador Atendimento | ✅ Concluído |
-| **Gestão Financeira de Empresas** | FIAP | ✅ Concluído |
-| **Atendimento ao Público** | Bradesco | ✅ Concluído |
-| **Finanças Pessoais** | Bradesco | ✅ Concluído |
-| **Letramento Digital** | Fundação Bradesco | ✅ Concluído |
-| **Cálculo Técnico** | Instituto Federal de Pernambuco | ✅ Concluído |
-| **Cálculo Técnico** | Instituto Federal do Rio Grande do Sul | ✅ Concluído |
-| **Fundamentos da Sustentabilidade em Tecnologia** | Microsoft | ✅ Concluído |
-| **Sustentabilidade em Tecnologia da Empresa** | Microsoft | ✅ Concluído |
-| **Fundamentos de Tecnologia em Libras** | Microsoft | ✅ Concluído |
+| [Gestão Financeira de Empresas](./certificados/gestao/gestao-financeira-fiap.pdf) | FIAP | ✅ Concluído |
+| [Encantar o Cliente através do Atendimento](./certificados/gestao/encantar-cliente.pdf) | Acelerador Atendimento | ✅ Concluído |
+| [Impulsionar sua carreira e buscar resultados mais expressivos para a empresa](./certificados/gestao/impulsionar-carreira.pdf) | Acelerador Atendimento | ✅ Concluído |
+| [Atendimento ao Público](./certificados/gestao/atendimento-publico.pdf) | Bradesco | ✅ Concluído |
+| [Finanças Pessoais](./certificados/gestao/financas-pessoais.pdf) | Bradesco | ✅ Concluído |
+| [Letramento Digital](./certificados/gestao/letramento-digital.pdf) | Fundação Bradesco | ✅ Concluído |
+| [Cálculo Técnico](./certificados/gestao/calculo-tecnico-if.pdf) | Instituto Federal | ✅ Concluído |
+| [Fundamentos da Sustentabilidade em Tecnologia](./certificados/gestao/sustentabilidade-ti.pdf) | Microsoft | ✅ Concluído |
+| [Fundamentos de Tecnologia em Libras](./certificados/gestao/tecnologia-libras.pdf) | Microsoft | ✅ Concluído |
 
 <img src="https://github.com/user-attachments/assets/87368e74-14ef-4130-8cc5-af4f6dbf01aa" width="100%">
 <img src="https://github.com/user-attachments/assets/820554ef-446f-4e56-a6d3-fa701280ba3b" width="100%">
