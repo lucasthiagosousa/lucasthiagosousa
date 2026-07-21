@@ -102,6 +102,14 @@
 | Curso | Instituição | Status |
 |------|-------------|--------|
 | **Google Workspace Core Services** | Google | ✅ Concluído |
+| **Google Workspace Administrator** | Google | ✅ Concluído |
+| **Google IT Support** | Google | ✅ Concluído |
+| **Android Enterprise Certified Associate** | Android | ✅ Concluído |
+| **Android Enterprise Certified Expert** | Android | ✅ Concluído |
+| **Android Enterprise Certified Professional**   | Android | ✅ Concluído |
+
+          
+
 
 ### 🎨 Frontend / Desenvolvimento Web
 | Curso | Instituição | Status |
