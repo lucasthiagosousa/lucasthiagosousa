@@ -97,7 +97,7 @@
 <a href="https://www.credly.com/badges/cf67cea2-4f53-4b42-9fb6-a28b6bd70244" target="_blank"><img height="79" src="https://images.credly.com/images/40eff5bb-da88-4c24-95f4-81255778593c/blob" alt="certificacao" style="max-width: 100%;"></a>
 <a href="https://www.credly.com/badges/312e9f6f-4eda-4af4-adc6-a7997914ff22/public_url" target="_blank"><img height="79" src="https://images.credly.com/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob" style="max-width: 100%;"></a>
 
-## 📜 Cursos & Certificações
+## 📜 Certificações
 
 | Curso | Instituição | Status |
 |------|-------------|--------|
@@ -109,7 +109,6 @@
 | **Android Enterprise Certified Professional**   | Android | ✅ Concluído |
 
           
-
 
 ### 🎨 Frontend / Desenvolvimento Web
 | Curso | Instituição | Status |
