@@ -101,7 +101,7 @@
 
 ### 🎨 Frontend / Desenvolvimento Web
 
-##EM MANUTENCAO ###
+##EM MANUTENCAO###
 |------|-------------|--------|
 | **Google Workspace Core Services** | Google | ✅ Concluído |
 
