@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/Bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Pay-3780F1?style=for-the-badge&logo=google-pay&logoColor=white"/>
 <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-
+[![Secured by GitGuard](https://img.shields.io/badge/Secured%20by-GitGuard-success?style=flat-square)](https://www.gitguard.com.br/lucasthiagosousa)
 
 </div>
 <p></p>
